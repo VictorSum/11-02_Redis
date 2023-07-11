@@ -1,4 +1,4 @@
-# Домашнее задание к занятию 11.2 "`Кеширование Redis/memcached`" - `Емельянов Михаил`
+# Домашнее задание к занятию 11.2 "`Кеширование Redis/memcached`" - `Сумской Виктор`
 
 ### Инструкция по выполнению домашнего задания
 
@@ -38,7 +38,7 @@
 
 #### ОТВЕТ:
 
-![Скриншот-1](https://github.com/Monooks/11-02_NetoHW/blob/main/img/11.02_1.png)
+![Скриншот-1](https://github.com/VictorSum/11-02_Redis/blob/main/img/11.02_1.png)
 
 ---
 ### Задание 3. Удаление по TTL в Memcached
@@ -49,7 +49,7 @@
 
 #### ОТВЕТ:
 
-![Скриншот-2](https://github.com/Monooks/11-02_NetoHW/blob/main/img/11.02_2.png)
+![Скриншот-2](https://github.com/VictorSum/11-02_Redis/blob/main/img/11.02_2.png)
 
 ---
 ### Задание 4. Запись данных в Redis
@@ -60,7 +60,7 @@
 
 #### ОТВЕТ:
 
-![Скриншот-3](https://github.com/Monooks/11-02_NetoHW/blob/main/img/11.02_3.png)
+![Скриншот-3](https://github.com/VictorSum/11-02_Redis/blob/main/img/11.02_3.png)
 
 ---
 ## Дополнительные задания (со звёздочкой*)
@@ -74,6 +74,6 @@
 
 #### ОТВЕТ:
 
-![Скриншот-4](https://github.com/Monooks/11-02_NetoHW/blob/main/img/11.02_4.png)
+![Скриншот-4](https://github.com/VictorSum/11-02_Redis/blob/main/img/11.02_4.png)
 
 ---
